@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\03_Exercise\Task07_Max_Sequence_of_Equal_Elements\bin\Debug\netcoreapp3.1\Task07_Max_Sequence_of_Equal_Elements.exe
+C:\Users\Kiril\source\repos\03_Exercise\Task07_Max_Sequence_of_Equal_Elements\bin\Debug\netcoreapp3.1\Task07_Max_Sequence_of_Equal_Elements.deps.json
+C:\Users\Kiril\source\repos\03_Exercise\Task07_Max_Sequence_of_Equal_Elements\bin\Debug\netcoreapp3.1\Task07_Max_Sequence_of_Equal_Elements.runtimeconfig.json
+C:\Users\Kiril\source\repos\03_Exercise\Task07_Max_Sequence_of_Equal_Elements\bin\Debug\netcoreapp3.1\Task07_Max_Sequence_of_Equal_Elements.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\03_Exercise\Task07_Max_Sequence_of_Equal_Elements\bin\Debug\netcoreapp3.1\Task07_Max_Sequence_of_Equal_Elements.dll
+C:\Users\Kiril\source\repos\03_Exercise\Task07_Max_Sequence_of_Equal_Elements\bin\Debug\netcoreapp3.1\Task07_Max_Sequence_of_Equal_Elements.pdb
+C:\Users\Kiril\source\repos\03_Exercise\Task07_Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp3.1\Task07_Max_Sequence_of_Equal_Elements.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\03_Exercise\Task07_Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp3.1\Task07_Max_Sequence_of_Equal_Elements.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\03_Exercise\Task07_Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp3.1\Task07_Max_Sequence_of_Equal_Elements.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\03_Exercise\Task07_Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp3.1\Task07_Max_Sequence_of_Equal_Elements.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\03_Exercise\Task07_Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp3.1\Task07_Max_Sequence_of_Equal_Elements.dll
+C:\Users\Kiril\source\repos\03_Exercise\Task07_Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp3.1\Task07_Max_Sequence_of_Equal_Elements.pdb
+C:\Users\Kiril\source\repos\03_Exercise\Task07_Max_Sequence_of_Equal_Elements\obj\Debug\netcoreapp3.1\Task07_Max_Sequence_of_Equal_Elements.genruntimeconfig.cache
