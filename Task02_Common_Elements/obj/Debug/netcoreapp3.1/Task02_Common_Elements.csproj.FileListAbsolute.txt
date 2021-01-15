@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\03_Exercise\Task02_Common_Elements\bin\Debug\netcoreapp3.1\Task02_Common_Elements.exe
+C:\Users\Kiril\source\repos\03_Exercise\Task02_Common_Elements\bin\Debug\netcoreapp3.1\Task02_Common_Elements.deps.json
+C:\Users\Kiril\source\repos\03_Exercise\Task02_Common_Elements\bin\Debug\netcoreapp3.1\Task02_Common_Elements.runtimeconfig.json
+C:\Users\Kiril\source\repos\03_Exercise\Task02_Common_Elements\bin\Debug\netcoreapp3.1\Task02_Common_Elements.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\03_Exercise\Task02_Common_Elements\bin\Debug\netcoreapp3.1\Task02_Common_Elements.dll
+C:\Users\Kiril\source\repos\03_Exercise\Task02_Common_Elements\bin\Debug\netcoreapp3.1\Task02_Common_Elements.pdb
+C:\Users\Kiril\source\repos\03_Exercise\Task02_Common_Elements\obj\Debug\netcoreapp3.1\Task02_Common_Elements.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\03_Exercise\Task02_Common_Elements\obj\Debug\netcoreapp3.1\Task02_Common_Elements.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\03_Exercise\Task02_Common_Elements\obj\Debug\netcoreapp3.1\Task02_Common_Elements.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\03_Exercise\Task02_Common_Elements\obj\Debug\netcoreapp3.1\Task02_Common_Elements.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\03_Exercise\Task02_Common_Elements\obj\Debug\netcoreapp3.1\Task02_Common_Elements.dll
+C:\Users\Kiril\source\repos\03_Exercise\Task02_Common_Elements\obj\Debug\netcoreapp3.1\Task02_Common_Elements.pdb
+C:\Users\Kiril\source\repos\03_Exercise\Task02_Common_Elements\obj\Debug\netcoreapp3.1\Task02_Common_Elements.genruntimeconfig.cache
