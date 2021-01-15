@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\03_Exercise\Task10_LadyBugs\bin\Debug\netcoreapp3.1\Task10_LadyBugs.exe
+C:\Users\Kiril\source\repos\03_Exercise\Task10_LadyBugs\bin\Debug\netcoreapp3.1\Task10_LadyBugs.deps.json
+C:\Users\Kiril\source\repos\03_Exercise\Task10_LadyBugs\bin\Debug\netcoreapp3.1\Task10_LadyBugs.runtimeconfig.json
+C:\Users\Kiril\source\repos\03_Exercise\Task10_LadyBugs\bin\Debug\netcoreapp3.1\Task10_LadyBugs.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\03_Exercise\Task10_LadyBugs\bin\Debug\netcoreapp3.1\Task10_LadyBugs.dll
+C:\Users\Kiril\source\repos\03_Exercise\Task10_LadyBugs\bin\Debug\netcoreapp3.1\Task10_LadyBugs.pdb
+C:\Users\Kiril\source\repos\03_Exercise\Task10_LadyBugs\obj\Debug\netcoreapp3.1\Task10_LadyBugs.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\03_Exercise\Task10_LadyBugs\obj\Debug\netcoreapp3.1\Task10_LadyBugs.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\03_Exercise\Task10_LadyBugs\obj\Debug\netcoreapp3.1\Task10_LadyBugs.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\03_Exercise\Task10_LadyBugs\obj\Debug\netcoreapp3.1\Task10_LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\03_Exercise\Task10_LadyBugs\obj\Debug\netcoreapp3.1\Task10_LadyBugs.dll
+C:\Users\Kiril\source\repos\03_Exercise\Task10_LadyBugs\obj\Debug\netcoreapp3.1\Task10_LadyBugs.pdb
+C:\Users\Kiril\source\repos\03_Exercise\Task10_LadyBugs\obj\Debug\netcoreapp3.1\Task10_LadyBugs.genruntimeconfig.cache
