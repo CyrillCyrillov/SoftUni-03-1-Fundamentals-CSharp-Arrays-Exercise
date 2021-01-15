@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\03_Exercise\Task06_Equal_Sums\bin\Debug\netcoreapp3.1\Task06_Equal_Sums.exe
+C:\Users\Kiril\source\repos\03_Exercise\Task06_Equal_Sums\bin\Debug\netcoreapp3.1\Task06_Equal_Sums.deps.json
+C:\Users\Kiril\source\repos\03_Exercise\Task06_Equal_Sums\bin\Debug\netcoreapp3.1\Task06_Equal_Sums.runtimeconfig.json
+C:\Users\Kiril\source\repos\03_Exercise\Task06_Equal_Sums\bin\Debug\netcoreapp3.1\Task06_Equal_Sums.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\03_Exercise\Task06_Equal_Sums\bin\Debug\netcoreapp3.1\Task06_Equal_Sums.dll
+C:\Users\Kiril\source\repos\03_Exercise\Task06_Equal_Sums\bin\Debug\netcoreapp3.1\Task06_Equal_Sums.pdb
+C:\Users\Kiril\source\repos\03_Exercise\Task06_Equal_Sums\obj\Debug\netcoreapp3.1\Task06_Equal_Sums.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\03_Exercise\Task06_Equal_Sums\obj\Debug\netcoreapp3.1\Task06_Equal_Sums.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\03_Exercise\Task06_Equal_Sums\obj\Debug\netcoreapp3.1\Task06_Equal_Sums.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\03_Exercise\Task06_Equal_Sums\obj\Debug\netcoreapp3.1\Task06_Equal_Sums.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\03_Exercise\Task06_Equal_Sums\obj\Debug\netcoreapp3.1\Task06_Equal_Sums.dll
+C:\Users\Kiril\source\repos\03_Exercise\Task06_Equal_Sums\obj\Debug\netcoreapp3.1\Task06_Equal_Sums.pdb
+C:\Users\Kiril\source\repos\03_Exercise\Task06_Equal_Sums\obj\Debug\netcoreapp3.1\Task06_Equal_Sums.genruntimeconfig.cache
